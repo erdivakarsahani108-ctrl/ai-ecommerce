@@ -1,0 +1,11 @@
+Django
+djangorestframework
+djangorestframework-simplejwt
+psycopg2-binary
+python-dotenv
+django-cors-headers
+pgvector
+django-filter
+sentence-transformers
+openai
+gunicorn
